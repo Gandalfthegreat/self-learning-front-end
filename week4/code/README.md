@@ -1,0 +1,4 @@
+- 通过 npm run serve 可以开启 webpack-dev-server
+- 通过 npm run build 可以打包生产环境所需的文件
+- 通过 npm run lint 可以对代码格式校验
+- 支持 sourceMap、热更新和自动清除 output 目录功能
